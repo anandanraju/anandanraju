@@ -1,4 +1,4 @@
-[![MasterHead](https://mediacloud.kiplinger.com/image/private/s--pQ1zk9VQ--/v1602615863/Investing/nasdaq-100-etfs-mutual-funds.jpg)](https://anandanraju.io)
+![MasterHead](https://user-images.githubusercontent.com/110320717/221400499-3597c7f0-2e8b-445b-bdd8-d24ef7c36b98.jpg)
 <h1 align="center">Hi 👋, I'm Anandan Raju</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

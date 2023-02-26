@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/67607955080161.597768d22e415.gif)](https://anandanraju.io)
+[![MasterHead](https://mediacloud.kiplinger.com/image/private/s--pQ1zk9VQ--/v1602615863/Investing/nasdaq-100-etfs-mutual-funds.jpg)](https://anandanraju.io)
 <h1 align="center">Hi 👋, I'm Anandan Raju</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

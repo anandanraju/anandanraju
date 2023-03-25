@@ -8,8 +8,7 @@
     <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react"  style="width:100%"/>
 <a href="https://github.com/anandanraju">
   </a>
-
-
+    
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju" alt="anandanraju" /></a> </p>
 <img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
 
@@ -24,8 +23,7 @@
 
 - 📫 How to reach me **anandandurairaju@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view](https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view]
 </details>
 
 <details>

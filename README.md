@@ -5,7 +5,7 @@
 
 ## Contribution Graph 
 <Br>
-    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=vision_friendly_dark"  style="width:100%"/>
+    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react"  style="width:100%"/>
 <a href="https://github.com/anandanraju">
   </a>
 
@@ -30,17 +30,17 @@
 
 <details>
 <summary> Languages and Tools : </summary>
-
+  <img height="110em" width="450em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
+  <img height="110em" width="450em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" />
+    
   [![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
     
     
-</details>
-    
+</details>  
 <details>
 <summary> Overview </summary>
-  <img height="160em" width = "1700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=yeblu"  />
   <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
-  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark"  />
+  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" />
   <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
   <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
 </details>

@@ -9,7 +9,8 @@
 <a href="https://github.com/anandanraju">
   </a>
     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju" alt="anandanraju" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
+    
 <img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
 
 

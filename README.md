@@ -39,10 +39,10 @@
 <details>
 <summary> Overview </summary>
   <img height="160em" width = "1700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=yeblu"  />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark"  />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
+  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
+  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark"  />
+  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
+  <img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
 </details>
     
  ##  🧭 Reach me here

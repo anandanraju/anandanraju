@@ -5,7 +5,7 @@
 
 ## Contribution Graph 
 <Br>
-    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=yeblu"  style="width:100%"/>
+    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=vision_friendly_dark"  style="width:100%"/>
 <a href="https://github.com/anandanraju">
   </a>
 

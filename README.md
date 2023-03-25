@@ -9,6 +9,7 @@
 <a href="https://github.com/anandanraju">
   </a>
     
+## Achieved Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
     
 <img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
@@ -27,17 +28,19 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view]
 </details>
 
+## Languages and Tools :
 <details>
-<summary> Languages and Tools : </summary>
+<summary> 👇 drop down </summary>
   <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
   <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" />
     
   [![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
-    
-    
+ 
 </details>  
+
+## Overview :
 <details>
-<summary> Overview </summary>
+<summary> 👇 drop down </summary>
   <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
   <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
 </details>

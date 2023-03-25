@@ -29,7 +29,7 @@
 
 - 📄 Know about me : **[My_Experience](https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view)** 
  
-- 🕸 My Port Folio Website : **[Potfolio](https://sites.google.com/view/anandanraju/)**
+- 🕸 My Portfolio Website : **[Potfolio](https://sites.google.com/view/anandanraju/)**
     
     
 </details>

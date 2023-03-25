@@ -19,15 +19,33 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view](https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anandan raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandan raju" height="30" width="40" /></a>
-<a href="https://kaggle.com/anandan raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandan raju" height="30" width="40" /></a>
-</p>
+## Contribution Graph 
+<Br>
+    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=yeblu"  style="width:100%"/>
+<a href="https://github.com/anandanraju">
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandanraju&show_icons=true&locale=en&layout=compact" alt="anandanraju" /></p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandanraju&show_icons=true&locale=en" alt="anandanraju" /></p>
+<details>
+<summary> Languages and Tools : </summary>
+
+  [![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
+    
+    
+</details>
+    
+<details>
+<summary> Overview </summary>
+  <img height="160em" width = "1700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=yeblu"  />
+  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
+  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark"  />
+  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
+  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
+</details>
+    
+ ##  🧭 Reach me here
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://kaggle.com/anandanraju)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anandanraju)

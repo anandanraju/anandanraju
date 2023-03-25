@@ -42,6 +42,6 @@
 </details>
     
  ##  🧭 Reach me here
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://kaggle.com/anandanraju)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anandanraju)
+[![My Skills](https://cdn.dribbble.com/users/92545/avatars/normal/profile-k.jpg?1370776708&compress=1&resize=40x40)](https://kaggle.com/anandanraju)

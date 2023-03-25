@@ -23,9 +23,9 @@
 
 - 🤝 I’m looking forward to become **Data Scientist**
 
-- 📫 How to reach me **anandandurairaju@gmail.com**
+- 📫 How to reach me : **anandandurairaju@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view]
+- 📄 Know about me : **[My_Experience](https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view)**
 </details>
 
 ## Languages and Tools :

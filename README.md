@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
-🕸 My Port Folio Website : **[Anandan Raju Potfolio](https://sites.google.com/view/anandanraju/)**
+🕸 My Portfolio Website : **[Anandan Raju Potfolio](https://sites.google.com/view/anandanraju/)**
 
 ## Contribution Graph 
 <Br>

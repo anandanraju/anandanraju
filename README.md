@@ -13,9 +13,8 @@
     
 ## Achieved Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
-    
-<img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
 
+<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:100%" /></a> </p>
 
 - 🔭 I’m currently working on **Hindustan Aeronautics Limited (HAL)**
 
@@ -31,6 +30,8 @@
  
 - 🕸 My Portfolio Website : **[Portfolio](https://sites.google.com/view/anandanraju/)**
     
+    
+<img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
     
 </details>
 

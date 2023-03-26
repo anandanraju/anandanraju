@@ -46,11 +46,9 @@
 ## Overview :
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:24%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:24%"  />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:24%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" style="width:24%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:33%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:33%"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:33%"/>
 
     
  ##  🧭 Reach me here

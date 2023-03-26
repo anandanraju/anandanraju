@@ -53,6 +53,7 @@
     
  ##  🧭 Reach me here
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)
+[![My Skills](https://user-images.githubusercontent.com/110320717/227777284-acada574-dd38-407d-9a55-bcec209df824.png)](https://kaggle.com/anandanraju)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anandanraju)
-[![My Skills](https://cdn.dribbble.com/users/92545/avatars/normal/profile-k.jpg?1370776708&compress=1&resize=40x40)](https://kaggle.com/anandanraju)
+[![My Skills](https://user-images.githubusercontent.com/110320717/227777105-19eb13dc-1539-4b25-8310-3762f1b4d8cc.jpg)](https://sites.google.com/view/anandanraju/contact-me)
 

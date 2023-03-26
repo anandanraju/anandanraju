@@ -14,7 +14,8 @@
 ## Achieved Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
 
-<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:100%" /></a> </p>
+<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:75%" /></a> </p>
+
 
 - 🔭 I’m currently working on **Hindustan Aeronautics Limited (HAL)**
 
@@ -38,9 +39,7 @@
 ## Languages and Tools :
 <details>
 <summary> 👇 drop down </summary>
-  <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" />
-  <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" />
-    
+   
   [![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
  
 </details>  
@@ -48,8 +47,12 @@
 ## Overview :
 <details>
 <summary> 👇 drop down </summary>
-  <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark"  />
-  <img height="130em" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8"  />
+  <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:24%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:24%"  />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:24%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandanraju&theme=chartreuse_dark" style="width:24%" />
 </details>
     
  ##  🧭 Reach me here

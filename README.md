@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src="https://img.shields.io/github/followers/anandanraju" alt="anandanraju" /> <img src="https://img.shields.io/github/stars/anandanraju?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
-🕸 My Portfolio Website : **[Anandan Raju Portfolio](https://sites.google.com/view/anandanraju/)**
+- 🔭 I’m currently working at **Dexian India Technologies**
+- 🌱 I’m currently learning **MachineLearning, DeepLearning**
+- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🤝 I’m looking forward to become **Data Analyst**
+- 📫 How to reach me : **anandandurairaju@gmail.com**
+- 📄 Know about me : **[My_Resume](https://drive.google.com/file/d/1e4XLramcv-librDq2-smpy66sa20WxvR/view?usp=sharing)** 
 
 ## Contribution Graph 
 <Br>
@@ -13,32 +18,14 @@
     
 ## Achieved Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
-
 <p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:75%" /></a> </p>
 
-
-- 🔭 I’m currently working on **Dexian India Technologies**
-
-- 🌱 I’m currently learning **MachineLearning, DeepLearning**
-
-- 👯 I’m looking to collaborate on **Data Science related Projects**
-
-- 🤝 I’m looking forward to become **Data Analyst**
-
-- 📫 How to reach me : **anandandurairaju@gmail.com**
-
-- 📄 Know about me : **[My_Resume](https://drive.google.com/file/d/1e4XLramcv-librDq2-smpy66sa20WxvR/view?usp=sharing)** 
- 
-    
 </details>
 
 ## Languages and Tools :
-
-   
+  
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
  
-
-
 ## Overview :
 
 <p align="center">

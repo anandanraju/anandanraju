@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src="https://img.shields.io/github/followers/anandanraju" alt="anandanraju" /> <img src="https://img.shields.io/github/stars/anandanraju?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
+- 🔭 **Junior ML Engineer** @OmdenaAI
 - 🔭 Working at **Dexian India Technologies**
-- 🔭 Junior ML Engineer @OmdenaAI
 - 👯 Working on **@OmdenaAI Live Data Science Projects** & Offline Projects.
 - 🤝 I’m looking forward to become **Data Analyst**
 - 📫 Contact me : **anandandurairaju@gmail.com**

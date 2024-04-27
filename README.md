@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src="https://img.shields.io/github/followers/anandanraju" alt="anandanraju" /> <img src="https://img.shields.io/github/stars/anandanraju?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
-- 🔭 I’m currently working at **Dexian India Technologies**
-- 🌱 I’m currently learning **MachineLearning, DeepLearning**
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🔭 Working at **Dexian India Technologies**
+- 🌱 Currently learning **MachineLearning, DeepLearning Concepts**
+- 👯 Working on **@Omdena Live Data Science Projects** and Offline Projects.
 - 🤝 I’m looking forward to become **Data Analyst**
-- 📫 How to reach me : **anandandurairaju@gmail.com**
+- 📫 Contact me : **anandandurairaju@gmail.com**
 - 📄 Know about me : **[My_Resume](https://drive.google.com/file/d/1e4XLramcv-librDq2-smpy66sa20WxvR/view?usp=sharing)** 
 
 ## Contribution Graph 

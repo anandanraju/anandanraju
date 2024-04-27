@@ -32,7 +32,7 @@
 - 🕸 My Portfolio Website : **[Portfolio](https://sites.google.com/view/anandanraju/)**
     
     
-<img align="centre" alt = "Datacientist" Width="1400" height="400" src = "https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
+
     
 </details>
 

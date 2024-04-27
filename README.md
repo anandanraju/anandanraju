@@ -17,22 +17,18 @@
 <p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:75%" /></a> </p>
 
 
-- 🔭 I’m currently working on **Hindustan Aeronautics Limited (HAL)**
+- 🔭 I’m currently working on **Dexian India Technologies**
 
-- 🌱 I’m currently learning **Hadoop, Scala**
+- 🌱 I’m currently learning **MachineLearning, DeepLearning**
 
 - 👯 I’m looking to collaborate on **Data Science related Projects**
 
-- 🤝 I’m looking forward to become **Data Scientist**
+- 🤝 I’m looking forward to become **Data Analyst**
 
 - 📫 How to reach me : **anandandurairaju@gmail.com**
 
-- 📄 Know about me : **[My_Experience](https://drive.google.com/file/d/1LQ4Rz-468caTCHJLSC7O8CBKBrWn1_NG/view)** 
+- 📄 Know about me : **[My_Resume](https://drive.google.com/file/d/1e4XLramcv-librDq2-smpy66sa20WxvR/view?usp=sharing)** 
  
-- 🕸 My Portfolio Website : **[Portfolio](https://sites.google.com/view/anandanraju/)**
-    
-    
-
     
 </details>
 

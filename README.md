@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src="https://img.shields.io/github/followers/anandanraju" alt="anandanraju" /> <img src="https://img.shields.io/github/stars/anandanraju?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
 - 🔭 Working at **Dexian India Technologies**
-- 🔭 As collaborator **Junior ML Engineer** @OmdenaAI
+- 🔭 As a collaborator **Junior ML Engineer** @OmdenaAI
 - 👯 Working on **@OmdenaAI Live Data Science Projects** & Offline Projects.
 - 🤝 I’m looking forward to become **Data Analyst**
 - 📫 Contact me : **anandandurairaju@gmail.com**
@@ -38,5 +38,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)
 [![My Skills](https://user-images.githubusercontent.com/110320717/227777284-acada574-dd38-407d-9a55-bcec209df824.png)](https://kaggle.com/anandanraju)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anandanraju)
-[![My Skills](https://user-images.githubusercontent.com/110320717/227777105-19eb13dc-1539-4b25-8310-3762f1b4d8cc.jpg)](https://sites.google.com/view/anandanraju/contact-me)
 

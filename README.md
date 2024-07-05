@@ -23,7 +23,7 @@
 
 ## Languages and Tools :
   
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,powershell,sqlite,selenium,tensorflow,html,pytorch,wordpress,autocad)](https://github.com/anandanraju)  
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pycharm,git,github,html,)](https://github.com/anandanraju)  
  
 ## Overview :
 

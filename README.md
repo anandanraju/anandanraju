@@ -7,7 +7,7 @@
 - 👯 Working on **@Dexian Projects** & Personal Projects.
 - 🤝 I’m looking forward to become **Data Analyst**
 - 📫 Contact me : **anandandurairaju@gmail.com**
-- 📄 Know about me : **[My_Resume](https://drive.google.com/file/d/1btJwAO85YHi34QaUXWTTNfHfNHW5LJfd/view?usp=drive_link)** 
+- 📄 Know about me : **[anandanraju.in](https://anandanraju.in/)** 
 
 ## Contribution Graph 
 <Br>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hai">, I'm Anandan Raju</h1>
-<h3 align="center"> A passionate Data Analyst from Chennai, India</h3>
+<h3 align="center"> A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanraju&label=Profile%20views&color=0e75b6&style=flat" alt="anandanraju" /> <img src="https://img.shields.io/github/followers/anandanraju" alt="anandanraju" /> <img src="https://img.shields.io/github/stars/anandanraju?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="anandanraju" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="40px"></p>
 
 - 🔭 Working at **Dexian India Technologies**
 - 👯 Working on **@Dexian Projects** & Personal Projects.
-- 🤝 I’m looking forward to become **Data Analyst**
+- 🤝 I’m looking forward to become a **Data Analyst**
 - 📫 Contact me : **anandandurairaju@gmail.com**
 - 📄 Know about me : **[anandanraju.in](https://anandanraju.in/)** 
 

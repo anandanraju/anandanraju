@@ -22,16 +22,26 @@
 </details>
 
 ## Languages and Tools :
-  
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pycharm,git,github,html,)](https://github.com/anandanraju)  
- 
+<!--[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pycharm,git,github,html,)](https://github.com/anandanraju)-->
+ <h3 align="Center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
+</h3>
+
 ## Overview :
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:33%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:33%"  />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:33%"/>
-
     
  ##  🧭 Reach me here
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)

@@ -6,19 +6,7 @@
 - 🧠 Empowering decisions with Data - crafting Insights through Code and Curiosity.
 - 👯 Currently crafting Personal & Online Projects.
 - 📫 Contact me : **anandandurairaju@gmail.com**
-- 📄 Know about me : **[anandanraju.in](https://anandanraju.in/)** 
-
-## Contribution Graph 
-<Br>
-    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react"  style="width:100%"/>
-<a href="https://github.com/anandanraju">
-  </a>
-    
-## Achieved Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
-<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" style="width:75%" /></a> </p>
-
-</details>
+- 📄 Know about me : **[anandanraju.in](https://anandanraju.in/)**
 
 ## Languages and Tools :
 <!--[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pycharm,git,github,html,)](https://github.com/anandanraju)-->
@@ -40,6 +28,18 @@
   <img src="https://tse3.mm.bing.net/th/id/OIP.mvUQvyS_tI3r_C99vcyl-wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3"  height="70" width="60" alt="AWS"/>
     
 </h3>
+
+## Contribution Graph 
+<Br>
+    <p align="center"><img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react" width="80%" height="10px">
+<a href="https://github.com/anandanraju">
+  </a>
+    
+## Achieved Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
+<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" width="50%" height="20px"/></a> </p>
+
+
 
 ## Overview :
 

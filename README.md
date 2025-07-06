@@ -23,21 +23,21 @@
 ## Languages and Tools :
 <!--[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pycharm,git,github,html,)](https://github.com/anandanraju)-->
  <h3 align="Center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo"  />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="50" alt="pandas logo"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="40"/>
   <img src="https://erp.mgt.ncu.edu.tw/wp-content/uploads/2022/06/Power-BI-Logo.png"  height="30" width="50" alt="PowerBI"/>
-  <img src="https://logowik.com/content/uploads/images/t_tableau-software.jpg"  height="60" width="60" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
-  <img src="https://tse2.mm.bing.net/th/id/OIP.81bjGdsyl0FXFlye4Q41CAHaGe?rs=1&pid=ImgDetMain&o=7&rm=3.svg"  height="40" width="40" alt="Snowflake"/>
-  <img src="https://www.tekenable.ie/wp-content/uploads/2019/06/azure_logo_794_new.png"  height="40" width="40" alt="Azure"/>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.mvUQvyS_tI3r_C99vcyl-wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3"  height="65" width="60" alt="AWS"/>
+  <img src="https://logowik.com/content/uploads/images/t_tableau-software.jpg"  height="60" width="50" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="50" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="50" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="50" alt="canva logo"  />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.81bjGdsyl0FXFlye4Q41CAHaGe?rs=1&pid=ImgDetMain&o=7&rm=3.svg"  height="40" width="50" alt="Snowflake"/>
+  <img src="https://www.tekenable.ie/wp-content/uploads/2019/06/azure_logo_794_new.png"  height="40" width="50" alt="Azure"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.mvUQvyS_tI3r_C99vcyl-wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3"  height="70" width="60" alt="AWS"/>
     
 </h3>
 

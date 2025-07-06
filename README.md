@@ -49,7 +49,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:33%"/>
     
  ##  🧭 Reach me here
+<a href="mailto:anandandurairaju@gmail.com"><img src="https://tse1.explicit.bing.net/th/id/OIP.pEV4GihwTq0QRoIWgLDUJQHaFl?w=902&h=681&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Gmail" width="6%" height="30px" /></a>
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anandanraju)
-[![My Skills](https://user-images.githubusercontent.com/110320717/227777284-acada574-dd38-407d-9a55-bcec209df824.png)](https://kaggle.com/anandanraju)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anandanraju)
+
 

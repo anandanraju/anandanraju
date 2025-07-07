@@ -29,6 +29,14 @@
     
 </h3>
 
+## Overview :
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:33%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:33%"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:33%"/>
+
+
 ## Contribution Graph 
 <Br>
     <p align="center"><img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react" width="80%" height="10px">
@@ -37,16 +45,7 @@
     
 ## Achieved Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
-<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" width="50%" height="20px"/></a> </p>
-
-
-
-## Overview :
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandanraju&theme=chartreuse_dark" style="width:33%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandanraju&theme=chartreuse_dark&utcOffset=8" style="width:33%"  />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandanraju&theme=chartreuse_dark" style="width:33%"/>
+<p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" width="70%" height="20px"/></a> </p>
     
  ##  🧭 Reach me here
 <a href="mailto:anandandurairaju@gmail.com"><img src="https://tse1.explicit.bing.net/th/id/OIP.pEV4GihwTq0QRoIWgLDUJQHaFl?w=902&h=681&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Gmail" width="6%" height="30px" /></a>

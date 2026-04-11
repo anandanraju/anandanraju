@@ -40,7 +40,6 @@
 
 ## Achieved Trophies & Contribution Graph  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandanraju&theme=radical&margin-h=100" alt="anandanraju" /></a> </p>
 <p align="center"> <a href="https://github.com/anandanraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanraju&theme=light&hide_border=false" width="70%" height="250px"/></a> </p>
 <Br>
     <p align="center"><img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandanraju&theme=react" width="80%" height="250px">

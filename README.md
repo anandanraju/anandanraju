@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
   <img src="https://tse2.mm.bing.net/th/id/OIP.81bjGdsyl0FXFlye4Q41CAHaGe?rs=1&pid=ImgDetMain&o=7&rm=3.svg"  height="40" width="40" alt="Snowflake"/>
   <img src="https://www.tekenable.ie/wp-content/uploads/2019/06/azure_logo_794_new.png"  height="40" width="40" alt="Azure"/>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.mvUQvyS_tI3r_C99vcyl-wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3"  height="70" width="60" alt="AWS"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.mvUQvyS_tI3r_C99vcyl-wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3"  height="40" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
